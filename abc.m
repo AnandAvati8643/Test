@@ -5,3 +5,4 @@ disp(c);
 d=c*2;
 disp(d);
 disp("value is getting evaluate");
+%checking
